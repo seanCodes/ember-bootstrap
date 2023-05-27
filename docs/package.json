@@ -55,7 +55,7 @@
     "ember-qunit": "6.2.0",
     "ember-resolver": "10.1.0",
     "ember-sinon-qunit": "7.1.4",
-    "ember-source": "3.28.12",
+    "ember-source": "5.0.0",
     "ember-template-lint": "5.10.0",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.8.0",
